@@ -1,7 +1,7 @@
 Hi !My name is Amy Yang
 ================================================================================================================================
 
-[](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm52c2hlZGxmY2RxdTZvMnh6Yjg3enV1enVlbTFmd2dqcWxpMDczcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif)
+<div>(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm52c2hlZGxmY2RxdTZvMnh6Yjg3enV1enVlbTFmd2dqcWxpMDczcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif)</div>
 
 Full Stack Software Engineer
 ----------------------------
