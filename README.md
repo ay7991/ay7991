@@ -1,4 +1,4 @@
-Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amy Yang
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amy Yang
 ================================================================================================================================
 
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm52c2hlZGxmY2RxdTZvMnh6Yjg3enV1enVlbTFmd2dqcWxpMDczcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif'/>
