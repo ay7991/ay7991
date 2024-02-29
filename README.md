@@ -1,18 +1,21 @@
 Hi! My name is Amy Yang 🍉
 ================================================================================================================================
+<div style="display: inline-flex;">
+  <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm52c2hlZGxmY2RxdTZvMnh6Yjg3enV1enVlbTFmd2dqcWxpMDczcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif'/>
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm52c2hlZGxmY2RxdTZvMnh6Yjg3enV1enVlbTFmd2dqcWxpMDczcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif'/>
-
-Full Stack Software Engineer
-----------------------------
-
-My favorite technologies include TypeScript/JavaScript, React/Redux, Express, and SQL and I'm passionate about building inclusive products!
-
-* 🌍  I'm based in New York
-* ✉️  You can contact me at [amy.yang7991@gmail.com](mailto:amy.yang7991@gmail.com)
-* 🚀  I'm currently working on [Reactime](https://www.reacti.me/)
-* 🤝  I'm open to collaborating on anything!
-* ⚡  Hit me up if you like playing your own 1 player games, but together lol
+  <div>
+    Full Stack Software Engineer
+    ----------------------------
+    
+    My favorite technologies include TypeScript/JavaScript, React/Redux, Express, and SQL and I'm passionate about building inclusive products!
+    
+    * 🌍  I'm based in New York
+    * ✉️  You can contact me at [amy.yang7991@gmail.com](mailto:amy.yang7991@gmail.com)
+    * 🚀  I'm currently working on [Reactime](https://www.reacti.me/)
+    * 🤝  I'm open to collaborating on anything!
+    * ⚡  Hit me up if you like playing your own 1 player games, but together lol
+  </div>
+</div>
 
 ### Skills
 
