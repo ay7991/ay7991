@@ -10,7 +10,7 @@ My favorite technologies include TypeScript/JavaScript, React/Redux, Express, an
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [amy.yang7991@gmail.com](mailto:amy.yang7991@gmail.com)
-* 🚀  I'm currently working on [Reactime](http://https://www.reacti.me/)
+* 🚀  I'm currently working on [Reactime](https://www.reacti.me/)
 * 🤝  I'm open to collaborating on anything!
 * ⚡  Hit me up if you like playing your own 1 player games, but together lol
 
