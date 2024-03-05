@@ -1,4 +1,4 @@
-Hi! My name is Amy Yang 🍉
+Hi! My name is Amy 🍉
 ================================================================================================================================
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Y3YmduaTNpaWwxeDkzZGNpMWZtZmlxdWpreGZ6ZXd5M2N2Z2NzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif'/>
 
