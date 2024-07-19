@@ -5,13 +5,12 @@ Hi there! My name is Amy 🍉
 Full Stack Software Engineer
 ----------------------------
 
-My favorite technologies include TypeScript/JavaScript, React/Nextjs, Express, and SQL and I'm passionate about building inclusive products!
+My favorite technologies include TypeScript/JavaScript, React/Nextjs, Express, and SQL and I'm passionate about building inclusive products! 
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [amy.yang7991@gmail.com](mailto:amy.yang7991@gmail.com)
 * 🚀  I currently manage the marketing site for WordCraft, a mobile puzzle game developed by Infinite Canvas
 * 🤝  I'm open to collaborating on anything!
-* ⚡  Hit me up if you like playing tennis (please don't ask me to serve), indoor rock climbing, and games #KirbyForever (and especially if you like playing your own single player games, but together lol)
 
 ### Skills
 <p align="left">
