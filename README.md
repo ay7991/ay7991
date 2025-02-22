@@ -9,7 +9,7 @@ My favorite technologies include TypeScript/JavaScript, React/Nextjs, Express, a
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [amy.yang7991@gmail.com](mailto:amy.yang7991@gmail.com)
-* 🚀  I currently manage the marketing site for WordCraft, a mobile puzzle game developed by Infinite Canvas
+* 🚀  I'm currently a full stack engineer at Arya Health, digital assistants for healthcare worker management
 * 🤝  I'm open to collaborating on anything!
 
 ### Skills
